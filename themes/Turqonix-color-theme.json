@@ -38,6 +38,29 @@
 		"editorGutter.addedBackground": "#40E0D080",
 		"editorGutter.modifiedBackground": "#66E6DD80",
 		"editorGutter.deletedBackground": "#f8717180",
+
+		"activityBar.background": "#020617",
+		"activityBar.foreground": "#e5e7eb",
+		"activityBar.inactiveForeground": "#334155",
+		"activityBar.border": "#0f172a",
+		"activityBar.activeBorder": "#40E0D0",
+		"activityBar.activeBackground": "#40E0D010",
+		"activityBarBadge.background": "#40E0D0",
+		"activityBarBadge.foreground": "#020617",
+
+		"sideBar.background": "#020617",
+		"sideBar.foreground": "#94a3b8",
+		"sideBar.border": "#0f172a",
+		"sideBarTitle.foreground": "#40E0D0",
+		"sideBarSectionHeader.background": "#0f172a",
+		"sideBarSectionHeader.foreground": "#8CF0EB",
+		"sideBarSectionHeader.border": "#1e293b",
+
+		"titleBar.activeBackground": "#020617",
+		"titleBar.activeForeground": "#e5e7eb",
+		"titleBar.inactiveBackground": "#020617",
+		"titleBar.inactiveForeground": "#475569",
+		"titleBar.border": "#0f172a",
 	"tokenColors": [
 		{
 			"name": "Comment",
