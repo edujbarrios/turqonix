@@ -1,14 +1,37 @@
 {
   "name": "turquoise-dark",
-  "displayName": "Turquoise Dark",
-  "description": "A dark turquoise-themed color scheme based on the branding colors of edujbarrios.com, designed for a clean, modern, and developer-friendly coding experience.",
+  "displayName": "Turqonix",
+  "description": "A dark turquoise VS Code theme built around the brand palette of edujbarrios.com. Clean Docusaurus-style backgrounds with a full 7-tone turquoise accent system.",
   "version": "1.0.0",
+  "publisher": "edujbarrios",
+  "author": "Eduardo J. Barrios",
+  "homepage": "https://edujbarrios.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/edujbarrios/turquoise-dark"
+  },
+  "bugs": {
+    "url": "https://github.com/edujbarrios/turquoise-dark/issues"
+  },
+  "license": "MIT",
+  "keywords": [
+    "theme",
+    "dark",
+    "turquoise",
+    "teal",
+    "color theme"
+  ],
   "engines": {
-    "vscode": "^1.115.0"
+    "vscode": "^1.60.0"
   },
   "categories": [
     "Themes"
   ],
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#1b1b1d",
+    "theme": "dark"
+  },
   "contributes": {
     "themes": [
       {

@@ -1,41 +1,41 @@
 # Turqonix
 
-A dark, turquoise-centric VS Code theme built around the brand palette of **edujbarrios.com**.
+A dark VS Code theme built around the official 7-tone turquoise brand palette of **[edujbarrios.com](https://edujbarrios.com)**, with Docusaurus-style backgrounds for a clean, modern coding experience.
 
 ## Color Palette
 
-| Role | Hex |
+| Tone | Hex | Used for |
+|---|---|---|
+| Deep | `#004d4d` | Indent guides |
+| Dark | `#006666` | Scrollbar track |
+| Moderate | `#008080` | Comments, operators, bracket guides |
+| **Base** | `#40E0D0` | Primary accent — functions, links, cursors, buttons |
+| Light | `#66E6DD` | Class names, hover states |
+| Lighter | `#8CF0EB` | Icons, supporting accents |
+| Lightest | `#B2FAF9` | Subtle highlights |
+
+## Editor Backgrounds
+
+| Area | Hex |
 |---|---|
-| Background | `#0f172a` |
-| Foreground | `#e5e7eb` |
-| Keyword | `#40E0D0` |
-| Function | `#66E6DD` |
-| String | `#8CF0EB` |
-| Type / Class | `#B2FAF9` |
-| Comment | `#6b7280` |
-| Status Bar | `#004d4d` |
+| Editor | `#1b1b1d` |
+| Panels / Sidebar | `#242526` |
+| Hover / Line highlight | `#2c2c2e` |
+| Borders | `#3d3d3f` |
 
-## Design Goals
+## Screenshots
 
-- WCAG-friendly contrast for long coding sessions
-- Single coherent accent: turquoise
-- Minimal visual noise
+> Reload the Extension Development Host (`F5`) to preview.
 
----
+## Install
 
-Originally named **turquoise-dark** README
+Search **Turqonix** in the VS Code Extensions panel, or install via:
 
-## Working with Markdown
+```
+ext install edujbarrios.turquoise-dark
+```
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## License
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+MIT © [Eduardo J. Barrios](https://edujbarrios.com)
 
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
