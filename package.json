@@ -2,7 +2,7 @@
   "name": "turquoise-dark",
   "displayName": "Turquoise Dark",
   "description": "A dark turquoise-themed color scheme based on the branding colors of edujbarrios.com, designed for a clean, modern, and developer-friendly coding experience.",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.115.0"
   },
