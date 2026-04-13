@@ -1,2 +1,6 @@
 # Set default behavior to automatically normalize line endings.
 * text=auto
+
+# JSON theme file — treat as JSON for syntax highlighting and diffs
+*.json linguist-language=JSON
+themes/Turqonix-color-theme.json linguist-detectable=true
