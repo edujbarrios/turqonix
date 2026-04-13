@@ -207,6 +207,71 @@
 		"notificationsInfoIcon.foreground": "#40E0D0",
 		"notificationCenterHeader.background": "#020617",
 		"notificationCenterHeader.foreground": "#40E0D0",
+
+		"peekView.border": "#40E0D0",
+		"peekViewEditor.background": "#0f172a",
+		"peekViewEditor.matchHighlightBackground": "#40E0D030",
+		"peekViewResult.background": "#020617",
+		"peekViewResult.fileForeground": "#e5e7eb",
+		"peekViewResult.lineForeground": "#94a3b8",
+		"peekViewResult.matchHighlightBackground": "#40E0D025",
+		"peekViewResult.selectionBackground": "#1e293b",
+		"peekViewResult.selectionForeground": "#40E0D0",
+		"peekViewTitle.background": "#006666",
+		"peekViewTitleDescription.foreground": "#94a3b8",
+		"peekViewTitleLabel.foreground": "#e5e7eb",
+
+		"diffEditor.insertedTextBackground": "#40E0D012",
+		"diffEditor.removedTextBackground": "#f8717112",
+		"diffEditor.insertedLineBackground": "#40E0D008",
+		"diffEditor.removedLineBackground": "#f8717108",
+		"diffEditorGutter.insertedLineBackground": "#40E0D025",
+		"diffEditorGutter.removedLineBackground": "#f8717125",
+
+		"extensionButton.prominentBackground": "#008080",
+		"extensionButton.prominentForeground": "#ffffff",
+		"extensionButton.prominentHoverBackground": "#006666",
+
+		"breadcrumb.foreground": "#475569",
+		"breadcrumb.focusForeground": "#40E0D0",
+		"breadcrumb.activeSelectionForeground": "#40E0D0",
+		"breadcrumbPicker.background": "#020617",
+
+		"settings.headerForeground": "#40E0D0",
+		"settings.modifiedItemIndicator": "#40E0D0",
+		"settings.dropdownBackground": "#1e293b",
+		"settings.dropdownBorder": "#334155",
+		"settings.checkboxBackground": "#1e293b",
+		"settings.checkboxBorder": "#334155",
+		"settings.textInputBackground": "#1e293b",
+		"settings.textInputBorder": "#334155",
+		"settings.numberInputBackground": "#1e293b",
+		"settings.numberInputBorder": "#334155",
+
+		"focusBorder": "#40E0D060",
+		"widget.shadow": "#00000080",
+		"selection.background": "#40E0D030",
+
+		"tree.indentGuidesStroke": "#1e293b",
+		"tree.tableColumnsBorder": "#1e293b",
+
+		"keybindingLabel.background": "#1e293b",
+		"keybindingLabel.foreground": "#e5e7eb",
+		"keybindingLabel.border": "#334155",
+		"keybindingLabel.bottomBorder": "#334155",
+
+		"checkbox.background": "#1e293b",
+		"checkbox.border": "#334155",
+		"checkbox.foreground": "#40E0D0",
+
+		"welcomePage.background": "#0f172a",
+		"walkThrough.embeddedEditorBackground": "#020617",
+		"textLink.foreground": "#40E0D0",
+		"textLink.activeForeground": "#66E6DD",
+		"textPreformat.foreground": "#8CF0EB",
+		"textBlockQuote.background": "#1e293b",
+		"textBlockQuote.border": "#40E0D0"
+	},
 	"tokenColors": [
 		{
 			"name": "Comment",
