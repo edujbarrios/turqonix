@@ -172,6 +172,41 @@
 		"quickInputList.focusForeground": "#40E0D0",
 		"quickInput.background": "#020617",
 		"quickInput.foreground": "#e5e7eb",
+
+		"scrollbar.shadow": "#00000060",
+		"scrollbarSlider.background": "#33415550",
+		"scrollbarSlider.hoverBackground": "#33415580",
+		"scrollbarSlider.activeBackground": "#40E0D030",
+
+		"minimap.background": "#050e1e",
+		"minimap.selectionHighlight": "#40E0D040",
+		"minimap.findMatchHighlight": "#40E0D070",
+		"minimapGutter.addedBackground": "#40E0D0",
+		"minimapGutter.deletedBackground": "#f87171",
+		"minimapGutter.modifiedBackground": "#66E6DD",
+
+		"badge.background": "#40E0D0",
+		"badge.foreground": "#020617",
+		"progressBar.background": "#40E0D0",
+
+		"gitDecoration.addedResourceForeground": "#40E0D0",
+		"gitDecoration.modifiedResourceForeground": "#66E6DD",
+		"gitDecoration.deletedResourceForeground": "#f87171",
+		"gitDecoration.untrackedResourceForeground": "#8CF0EB",
+		"gitDecoration.ignoredResourceForeground": "#475569",
+		"gitDecoration.conflictingResourceForeground": "#B2FAF9",
+		"gitDecoration.stageModifiedResourceForeground": "#66E6DD",
+		"gitDecoration.stageDeletedResourceForeground": "#f87171",
+
+		"notifications.background": "#020617",
+		"notifications.foreground": "#e5e7eb",
+		"notifications.border": "#1e293b",
+		"notificationLink.foreground": "#40E0D0",
+		"notificationsErrorIcon.foreground": "#f87171",
+		"notificationsWarningIcon.foreground": "#B2FAF9",
+		"notificationsInfoIcon.foreground": "#40E0D0",
+		"notificationCenterHeader.background": "#020617",
+		"notificationCenterHeader.foreground": "#40E0D0",
 	"tokenColors": [
 		{
 			"name": "Comment",
