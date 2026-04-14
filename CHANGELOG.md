@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2] - 2026-04-14
+
+### Changed
+- **JSON value strings** color lightened from `#e2e8f0` to `#f1f5f9` for improved readability against dark backgrounds
+- **README** — removed Marketplace shields (Version, Downloads, Rating) from the header
+- **README** — palette badge label backgrounds lightened from `#1b1b1d` to `#242526` for better contrast
+
 ## [1.0.1] - 2026-04-14
 
 ### Changed
