@@ -2,6 +2,26 @@
 
 A dark VS Code theme built around the official 7-tone turquoise brand palette of **[edujbarrios.com](https://edujbarrios.com)**, with Docusaurus-style backgrounds for a clean, modern coding experience.
 
+[![Version](https://img.shields.io/visual-studio-marketplace/v/EduardoJbarrios.turquoise-dark?style=flat-square&color=40E0D0&labelColor=1b1b1d)](https://marketplace.visualstudio.com/items?itemName=EduardoJbarrios.turquoise-dark)
+[![Downloads](https://img.shields.io/visual-studio-marketplace/d/EduardoJbarrios.turquoise-dark?style=flat-square&color=40E0D0&labelColor=1b1b1d)](https://marketplace.visualstudio.com/items?itemName=EduardoJbarrios.turquoise-dark)
+[![Rating](https://img.shields.io/visual-studio-marketplace/r/EduardoJbarrios.turquoise-dark?style=flat-square&color=40E0D0&labelColor=1b1b1d)](https://marketplace.visualstudio.com/items?itemName=EduardoJbarrios.turquoise-dark)
+
+## Installation
+
+### From VS Code
+1. Open the **Extensions** panel (`Ctrl+Shift+X` / `⌘+Shift+X`)
+2. Search for **Turqonix**
+3. Click **Install**
+4. Open the Command Palette (`Ctrl+Shift+P` / `⌘+Shift+P`), run **Preferences: Color Theme**, and select **Turqonix**
+
+### From the Marketplace
+Visit the [Turqonix page on the VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=EduardoJbarrios.turquoise-dark) and click **Install**.
+
+### Quick install via command line
+```bash
+code --install-extension EduardoJbarrios.turquoise-dark
+```
+
 ## Color Palette
 
 ### Turquoise Tones
@@ -30,10 +50,6 @@ A dark VS Code theme built around the official 7-tone turquoise brand palette of
 ![Panels](https://img.shields.io/badge/Panels-%23242526-242526?style=flat-square)
 ![Hover](https://img.shields.io/badge/Hover-%232c2c2e-2c2c2e?style=flat-square)
 ![Borders](https://img.shields.io/badge/Borders-%233d3d3f-3d3d3f?style=flat-square)
-
-## Screenshots
-
-Will be added once the theme is published.
 
 
 

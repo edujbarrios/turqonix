@@ -445,7 +445,7 @@
 		"symbolIcon.propertyForeground": "#e5e7eb",
 		"symbolIcon.referenceForeground": "#8CF0EB",
 		"symbolIcon.snippetForeground": "#8CF0EB",
-		"symbolIcon.stringForeground": "#66E6DD",
+		"symbolIcon.stringForeground": "#e2e8f0",
 		"symbolIcon.structForeground": "#66E6DD",
 		"symbolIcon.textForeground": "#e5e7eb",
 		"symbolIcon.typeParameterForeground": "#66E6DD",
@@ -496,7 +496,7 @@
 		"debugView.valueChangedHighlight": "#40E0D0",
 		"debugTokenExpression.name": "#8CF0EB",
 		"debugTokenExpression.value": "#e5e7eb",
-		"debugTokenExpression.string": "#66E6DD",
+		"debugTokenExpression.string": "#e2e8f0",
 		"debugTokenExpression.boolean": "#66E6DD",
 		"debugTokenExpression.number": "#fde68a",
 		"debugTokenExpression.error": "#f87171",
@@ -618,7 +618,19 @@
 				"string.template"
 			],
 			"settings": {
-				"foreground": "#66E6DD"
+				"foreground": "#e2e8f0"
+			}
+		},
+		{
+			"name": "String - Quotes",
+			"scope": [
+				"punctuation.definition.string.begin",
+				"punctuation.definition.string.end",
+				"punctuation.definition.string.template.begin",
+				"punctuation.definition.string.template.end"
+			],
+			"settings": {
+				"foreground": "#9ca3af"
 			}
 		},
 		{
@@ -1098,7 +1110,7 @@
 				"meta.structure.dictionary.value.json string.quoted.double.json"
 			],
 			"settings": {
-				"foreground": "#66E6DD"
+				"foreground": "#e2e8f0"
 			}
 		},
 		{
@@ -1168,6 +1180,16 @@
 			"settings": {
 				"fontStyle": "bold",
 				"foreground": "#40E0D0"
+			}
+		},
+		{
+			"name": "Markup - Heading Punctuation",
+			"scope": [
+				"punctuation.definition.heading.markdown",
+				"punctuation.definition.heading.md"
+			],
+			"settings": {
+				"foreground": "#008080"
 			}
 		},
 		{
