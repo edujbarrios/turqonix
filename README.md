@@ -22,14 +22,6 @@ code --install-extension EduardoJbarrios.turquoise-dark
 
 ### Turquoise Tones
 
-![Deep](https://img.shields.io/badge/Deep-%23004d4d-004d4d?style=flat-square)
-![Dark](https://img.shields.io/badge/Dark-%23006666-006666?style=flat-square)
-![Moderate](https://img.shields.io/badge/Moderate-%23008080-008080?style=flat-square)
-![Base](https://img.shields.io/badge/Base-%2340E0D0-40E0D0?style=flat-square&labelColor=242526)
-![Light](https://img.shields.io/badge/Light-%2366E6DD-66E6DD?style=flat-square&labelColor=242526)
-![Lighter](https://img.shields.io/badge/Lighter-%238CF0EB-8CF0EB?style=flat-square&labelColor=242526)
-![Lightest](https://img.shields.io/badge/Lightest-%23B2FAF9-B2FAF9?style=flat-square&labelColor=242526)
-
 | Tone | Hex | Used for |
 |---|---|---|
 | Deep | `#004d4d` | Indent guides |
@@ -42,10 +34,12 @@ code --install-extension EduardoJbarrios.turquoise-dark
 
 ### Editor Backgrounds
 
-![Editor](https://img.shields.io/badge/Editor-%231b1b1d-1b1b1d?style=flat-square&labelColor=2c2c2e)
-![Panels](https://img.shields.io/badge/Panels-%23242526-242526?style=flat-square&labelColor=2c2c2e)
-![Hover](https://img.shields.io/badge/Hover-%232c2c2e-2c2c2e?style=flat-square&labelColor=2c2c2e)
-![Borders](https://img.shields.io/badge/Borders-%233d3d3f-3d3d3f?style=flat-square&labelColor=2c2c2e)
+| Background | Hex | Used for |
+|---|---|---|
+| Editor | `#1b1b1d` | Main editor background |
+| Panels | `#242526` | Sidebar, activity bar, tabs bar |
+| Hover | `#2c2c2e` | Hover states, line highlight |
+| Borders | `#3d3d3f` | Separators and borders |
 
 
 

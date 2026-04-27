@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.3] - 2026-04-27
+
+### Changed
+- **HTML / JSX / TSX tag punctuation** (`<`, `>`, `</`) lightened from `#4a4a4c` to `#6b7280` for improved readability
+- Added JSX and TSX tag punctuation scopes to the same rule
+- **README** — replaced shield badge images in the Color Palette section with plain Markdown tables
+
 ## [1.0.2] - 2026-04-14
 
 ### Changed

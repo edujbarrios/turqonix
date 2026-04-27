@@ -1071,17 +1071,23 @@
 			}
 		},
 		{
-			"name": "HTML - Tag",
+			"name": "HTML / JSX / TSX - Tag Punctuation",
 			"scope": [
 				"meta.tag.any.html",
 				"meta.tag.other.html",
 				"meta.tag.structure.any.html",
 				"punctuation.definition.tag.html",
 				"punctuation.definition.tag.begin.html",
-				"punctuation.definition.tag.end.html"
+				"punctuation.definition.tag.end.html",
+				"punctuation.definition.tag.jsx",
+				"punctuation.definition.tag.begin.jsx",
+				"punctuation.definition.tag.end.jsx",
+				"punctuation.definition.tag.tsx",
+				"punctuation.definition.tag.begin.tsx",
+				"punctuation.definition.tag.end.tsx"
 			],
 			"settings": {
-				"foreground": "#4a4a4c"
+				"foreground": "#6b7280"
 			}
 		},
 		{
